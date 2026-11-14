@@ -1,0 +1,10 @@
+{
+  "appId": "com.nrunner.railwaychase",
+  "appName": "N RUNNER",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "android": {
+    "allowMixedContent": false,
+    "backgroundColor": "#090d16"
+  }
+}

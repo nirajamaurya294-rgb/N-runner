@@ -1,0 +1,6 @@
+{
+  "name": "N RUNNER",
+  "description": "3D endless railway runner game where you dash across three tracks, moving trains, bridges, stations, and tunnels while CID Inspector Abhijeet chases you.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
